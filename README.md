@@ -1,4 +1,4 @@
-# Undead Escape
+# Undead Survival
 Undead Escape is a 2D top-down shooter where players must survive waves of zombies in a post-apocalyptic world. This project, developed in Java using Swing, features an intelligent zombie AI powered by the A* Pathfinding algorithm, ensuring dynamic and challenging gameplay.
 
 ## Features
