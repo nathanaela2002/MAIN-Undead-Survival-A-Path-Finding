@@ -5,9 +5,8 @@ Undead Escape is a 2D top-down shooter where players must survive waves of zombi
 ## 1. A Pathfinding Algorithm for Zombie AI
 The zombies in Undead Escape use the A* Pathfinding algorithm, allowing them to intelligently navigate around obstacles and track the player. This algorithm ensures that the enemies find the most efficient path to the player, adding a strategic element as players must constantly move to avoid being cornered.
 
-Efficient Navigation: Zombies calculate the shortest path to the player, taking into account barriers and obstacles.
-
-Dynamic AI Behavior: The AI adjusts its path in real-time as the player moves and new obstacles emerge.
+- Efficient Navigation: Zombies calculate the shortest path to the player, taking into account barriers and obstacles.
+- Dynamic AI Behavior: The AI adjusts its path in real-time as the player moves and new obstacles emerge.
 
 ## 2. Intuitive Controls and Smooth Gameplay
 Movement: Use the arrow keys (or WASD) to move your character around the map.
